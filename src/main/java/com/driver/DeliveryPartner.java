@@ -11,10 +11,12 @@ public class DeliveryPartner {
     }
 
     public String getId() {
+
         return id;
     }
 
     public Integer getNumberOfOrders(){
+
         return numberOfOrders;
     }
 
